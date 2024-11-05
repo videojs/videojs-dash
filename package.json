@@ -54,7 +54,7 @@
     "test/"
   ],
   "dependencies": {
-    "dashjs": "^4.2.0",
+    "dashjs": "^4.7.4",
     "global": "^4.3.2",
     "video.js": "^5.18.0 || ^6 || ^7"
   },
