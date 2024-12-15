@@ -31,14 +31,11 @@ Drop by our slack channel (#playback) on the [Video.js slack](http://slack.video
 
 ## Getting Started
 
-Download [Dash.js](https://github.com/Dash-Industry-Forum/dash.js/releases) and [videojs-contrib-dash](https://github.com/videojs/videojs-contrib-dash/releases). Include them both in your web page along with video.js:
+Download [videojs-contrib-dash](https://github.com/videojs/videojs-contrib-dash/releases) and include it on your web page along with video.js:
 
 ```html
 <video id=example-video width=600 height=300 class="video-js vjs-default-skin" controls></video>
 <script src="video.js"></script>
-
-<!-- Dash.js -->
-<script src="dash.all.min.js"></script>
 
 <!-- videojs-contrib-dash script -->
 <script src="videojs-dash.min.js"></script>
